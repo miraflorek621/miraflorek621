@@ -13,8 +13,8 @@
 @media (max-width: 767px){ .u-section-1 .u-sheet-1 {min-height: 359px} }
 
 @media (max-width: 575px){ .u-section-1 .u-sheet-1 {min-height: 219px}
-.u-section-1 .u-text-1 {margin-top: 340px; margin-right: -33px; margin-left: -24px; width: auto}
-.u-section-1 .u-text-2 {margin-top: 45px} }.u-section-2 .u-sheet-1 {min-height: 730px}
+.u-section-1 .u-text-1 {margin-top: 253px; margin-right: 10px; margin-left: 10px; font-size: 3rem; width: auto}
+.u-section-1 .u-text-2 {margin-top: 22px; margin-left: 19px; width: auto; font-size: 0.875rem} }.u-section-2 .u-sheet-1 {min-height: 730px}
 .u-section-2 .u-layout-wrap-1 {pointer-events: auto; margin: 70px 0 60px}
 .u-section-2 .u-image-1 {min-height: 600px; pointer-events: auto; background-position: 50% 50%; background-image: url("images/minigolftondr.31281.big.jpg")}
 .u-section-2 .u-container-layout-1 {padding: 30px 60px}
